@@ -1,17 +1,13 @@
-# -用于《机械设计课程设计》中的减速箱设计的计算
+# 用于《机械设计课程设计》中的减速箱设计的计算
 
 ## Requirement
 - `Python 3+` 
 ## 1. Overview
-几乎所有高校的机械类专业都有《机械设计课程设计》课程，课程内容几乎都是设计一个减速箱。可能是一级减速，二级减速等，可能是直齿齿轮减速，斜齿轮减速等。在进行课程设计时，齿轮、带传递、蜗轮蜗杆等传动部件的计算量庞大，而且极容易出错。有的同学可能是手按计算器，一步一步来，这样效率是极低的。为了提高计算效率以及优化设计，我在进行课设的时候，借助了Python语言计算。现在将我的程序上传到Github，帮助大家的学习。
+几乎所有高校的机械类专业都有《机械设计课程设计》课程，课程内容几乎都是设计一个减速箱。可能是一级减速，二级减速等，可能是直齿齿轮减速，斜齿轮减速等。在进行课程设计时，齿轮、带传递、蜗轮蜗杆等传动部件的计算量庞大，而且极容易出错。有的同学可能是手按计算器，一步一步来，这样效率是极低的。为了提高计算效率以及优化设计，我在进行课设的时候，借助了Python语言计算。
 
-程序已经上传Github，有需要的小伙伴可以去下载程序。也欢迎大家在知乎或者CSDN下评论。
+参考源Github链接：https://github.com/HuimingPan/course-exercise-in-mechanical-design
 
-Github 链接：https://github.com/HuimingPan/course-exercise-in-mechanical-design
 
-CSDN 链接：https://blog.csdn.net/weixin_46191033/article/details/113738206
-
-知乎链接：https://zhuanlan.zhihu.com/p/349813060
 ## 2. Structure
 - caculation.py 是主程序；
 - belt.py 带传动计算；
